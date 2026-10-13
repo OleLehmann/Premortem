@@ -1,11 +1,11 @@
 # Importing the torch library
 import torch
 
-# Importing the Morpheus model from the morpheus_torch package
-from morpheus_torch.model import Morpheus
+# Importing the Premortem model from the Premortem_torch package
+from Premortem_torch.model import Premortem
 
-# Creating an instance of the Morpheus model with specified parameters
-model = Morpheus(
+# Creating an instance of the Premortem model with specified parameters
+model = Premortem(
     dim=128,  # Dimension of the model
     heads=4,  # Number of attention heads
     depth=2,  # Number of transformer layers
