@@ -1,15 +1,15 @@
-from morpheus_torch.model import (
+from Premortem_torch.model import (
     EEGConvEmbeddings,
     FMRIEmbedding,
-    MorpheusEncoder,
-    MorpheusDecoder,
-    Morpheus,
+    PremortemEncoder,
+    PremortemDecoder,
+    Premortem,
 )
 
 __all__ = [
     "EEGConvEmbeddings",
     "FMRIEmbedding",
-    "MorpheusEncoder",
-    "MorpheusDecoder",
-    "Morpheus"
+    "PremortemEncoder",
+    "PremortemDecoder",
+    "Premortem"
 ]
