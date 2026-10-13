@@ -1,8 +1,5 @@
 # PRE-MORTEM 🔮
 
-<p align="center">
-  <img src="premortem copy.png" alt="Premortem Banner" width="300" />
-</p>
 
 Premortem is a future-prediction AI model designed to explore possible futures, uncover opportunities, and identify the decisions that lead to success.
 
@@ -11,6 +8,9 @@ Imagine traveling six months into the future and discovering that your plan work
 Premortem works backward to help you understand how to make it happen.
 
 > Travel six months into the future. Discover what worked. Bring the insights back to the present.
+<p align="center">
+  <img src="premortem copy.png" alt="Premortem Banner" width="300" />
+</p>
 
 ## Core Concept
 
